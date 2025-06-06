@@ -8,7 +8,7 @@ Desenvolvedor Full Stack especializado em criar experiências digitais excepcion
 🔹 Estudante Ignite na Rocketseat - Trilha de excelência em desenvolvimento
 🔹 TDAH como diferencial - Hiperfoco e criatividade aplicados à tecnologia
 🛠️ Stack Tecnológica
-<div align="center">
+
 Frontend Development
 
 Styling & UI
