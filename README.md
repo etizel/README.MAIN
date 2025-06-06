@@ -52,11 +52,7 @@ Desenvolvido especialmente para demonstrar minhas capacidades técnicas, conheç
 Disponível 24/7 • Integração GitHub • Demonstrações Técnicas
 </div>
 📊 Métricas de Desenvolvimento
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
+
 🌟 Projetos em Destaque
 🍅 Pomodoro Ignite | Ver Projeto
 Sistema de produtividade com arquitetura moderna
@@ -98,11 +94,7 @@ Q3-Q4 - Evolução Profissional
 🎓 Mentoring e criação de conteúdo técnico
 
 📞 Vamos Construir Algo Incrível Juntos?
-<div align="center">
 
-</div>
-
-<div align="center">
 "Onde design excepcional encontra código elegante,
 nascem soluções que transformam negócios."
 Show Image
