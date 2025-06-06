@@ -47,10 +47,10 @@ typescriptinterface ProfessionalServices {
 }
 🤖 Assistente Virtual Personalizado
 Desenvolvido especialmente para demonstrar minhas capacidades técnicas, conheça o Richard - meu assistente virtual que possui conhecimento completo sobre meus projetos e expertise:
-<div align="center">
+
 🔗 Converse com Richard
-Disponível 24/7 • Integração GitHub • Demonstrações Técnicas
-</div>
+Disponível 24/7 • Integração GitHub • Demonstrações Técnicas - 
+
 📊 Métricas de Desenvolvimento
 
 🌟 Projetos em Destaque
@@ -100,4 +100,4 @@ nascem soluções que transformam negócios."
 Show Image
 Show Image
 ⭐ Transforme sua ideia em realidade digital - Vamos conversar!
-</div>
+
