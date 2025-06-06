@@ -1,7 +1,5 @@
 👋 Olá, eu sou Etizel
-<div align="center">
-Show Image
-</div>
+
 🚀 Sobre Mim
 Desenvolvedor Full Stack especializado em criar experiências digitais excepcionais através da união entre design centrado no usuário e desenvolvimento técnico de alta qualidade. Com expertise em UX/UI Design e automação de processos, transformo ideias complexas em soluções digitais elegantes e funcionais.
 🔹 UX/UI Designer com foco em experiências intuitivas e conversão
